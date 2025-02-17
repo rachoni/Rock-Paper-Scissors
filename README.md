@@ -1,5 +1,7 @@
 # Rock Paper Scissors Game
 
+![Tic Tac Toe Screenshot](images.jpeg)
+
 ## Overview
 This is a simple command-line game of Rock, Paper, Scissors created in Python. The player selects either Rock, Paper, or Scissors, and the computer makes a random choice. The winner is determined based on the standard rules of Rock, Paper, Scissors:
 
